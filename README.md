@@ -1,4 +1,4 @@
-# Ru-GoEmotions
+# ru-goemotions
 
 ## Description
 
