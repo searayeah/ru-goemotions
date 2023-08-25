@@ -13,7 +13,7 @@ Hugging Face links:
 
 Use Hugging Face [datasets](https://github.com/huggingface/datasets) library or [pandas](https://github.com/pandas-dev/pandas).
 
-### Hugging Face
+### From Hugging Face
 
 ```python
 from datasets import load_dataset
@@ -22,7 +22,7 @@ ru_go_emotions_simplified = load_dataset("seara/ru_go_emotions", name="simplifie
 ru_go_emotions_raw = load_dataset("seara/ru_go_emotions", name="raw")
 ```
 
-### Github
+### From Github
 
 ```python
 from datasets import load_dataset
